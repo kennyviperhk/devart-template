@@ -1,12 +1,12 @@
 # Project Title
-Insert the name of your project
+][LIMINAL][ Contour
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+Kenny Wong (github:kennyviperhk)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+We keep on creating and occupying spaces in our unconscious daily movements. In a massively compressed urban space like Hong Kong we constantly find ourselves reaching for the smallest available spots to advance through crowds. We try to achieve the highest mobility in a limited volume.
+][LIMINAL][ Contour is an analysis sketch to visualizing people's movement in a Wan Chai, Hong Kong. A few seconds of time the same spot are compressed into a single frame.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -14,7 +14,7 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 [Example Link](http://www.google.com "Example Link")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+
 ```
 function test() {
   console.log("Printing a test");

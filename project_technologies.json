@@ -4,10 +4,10 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "OSX 10.8"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Openframeworks 0.8.0"
         ]
     },
     "themes": [

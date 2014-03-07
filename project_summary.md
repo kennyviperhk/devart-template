@@ -27,8 +27,8 @@ function test() {
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/Contour1_s.jpg?raw=true "][LIMINAL][ Contour")
+/project_images/LIMINALContour.jpg
+![Example Image](/project_images/LIMINALContour.jpg "][LIMINAL][ Contour")
 ![Example Image](http://kennywong.co/wp-content/uploads/2013/12/3740to3890-3884-6.0sec_s.jpg?raw=true "][LIMINAL][ Contour")
 ![Example Image](http://kennywong.co/wp-content/uploads/2013/12/500to700-592-3.68s_s1.jpg?raw=true "][LIMINAL][ Contour")
 ![Example Image](http://kennywong.co/wp-content/uploads/2013/12/2219to2400-2399-7.2sec_s.jpg?raw=true "][LIMINAL][ Contour")

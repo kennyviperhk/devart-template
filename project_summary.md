@@ -21,12 +21,13 @@ function test() {
 [OfxCv](https://github.com/kylemcdonald/ofxCv "OfxCv")
 
 ## Images
-![Example Image](/project_images/LIMINALContour.jpg?raw=true "][LIMINAL][ Contour")
-![Example Image](/project_images/LIMINALContour3.68s.jpg?raw=true "][LIMINAL][ Contour")
-![Example Image](/project_images/LIMINALContour5.24sec.jpg?raw=true "][LIMINAL][ Contour")
-![Example Image](/project_images/LIMINALContour6.0sec.jpg?raw=true "][LIMINAL][ Contour")
-![Example Image](/project_images/LIMINALContour7.2sec.jpg?raw=true "][LIMINAL][ Contour")
+<img height=500 src="/project_images/LIMINALContour.jpg?raw=true"/>
+<img height=500 src="/project_images/LIMINALContour3.68s.jpg?raw=true"/>
+<img height=500 src="/project_images/LIMINALContour5.24sec.jpg?raw=true"/>
+<img height=500 src="/project_images/LIMINALContour6.0sec.jpg?raw=true"/>
+<img height=500 src="/project_images/LIMINALContour7.2sec.jpg?raw=true"/>
 
 ## Videos
 [![ScreenShot](/project_images/cover.jpg?raw=true)](https://vimeo.com/86220714)
-https://vimeo.com/86220714
+<iframe src="//player.vimeo.com/video/86220714?byline=0&amp;portrait=0&amp;color=ffffff" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+

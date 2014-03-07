@@ -1,13 +1,15 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "OfxCV"
+            "OfxOpenCV"
         ],
         "platforms": [
             "OSX 10.8"
         ],
         "toolkits": [
             "Openframeworks 0.8.0"
+            "OpenCV"
         ]
     },
     "themes": [

@@ -21,11 +21,11 @@ function test() {
 [OfxCv](https://github.com/kylemcdonald/ofxCv "OfxCv")
 
 ## Images
-<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour.jpg?raw=true"/>
-<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour3.68s.jpg?raw=true"/>
-<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour5.24sec.jpg?raw=true"/>
-<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour6.0sec.jpg?raw=true"/>
-<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour7.2sec.jpg?raw=true"/>
+<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour.jpg"/>
+<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour3.68s.jpg"/>
+<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour5.24sec.jpg"/>
+<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour6.0sec.jpg"/>
+<img height=500 src="https://github.com/kennyviperhk/devart-template/raw/master/project_images/LIMINALContour7.2sec.jpg"/>
 
 ## Videos
 [![ScreenShot](/project_images/cover.jpg?raw=true)](https://vimeo.com/86220714)

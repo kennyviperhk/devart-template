@@ -10,13 +10,6 @@ We keep on creating and occupying spaces in our unconscious daily movements. In 
 
 [More Info About the work](http://kennywong.co/2013/liminal-contour/ "More Info About the work")
 
-## Example Code
-
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## External Libraries
 [OfxCv](https://github.com/kylemcdonald/ofxCv "OfxCv")
 
